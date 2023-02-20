@@ -16,9 +16,6 @@
     "hobbies": ["coding", "cooking", "gaming", "travelling"]
 }
 ```
-<h2>Stats</h2>
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 <h2><img src="https://github.com/sanchayata-jain/sanchayata-jain/blob/master/assets/computer.gif" width="50" height="50">&nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="45" height="45"/>
