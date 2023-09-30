@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/sanchayata-jain) [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/_sanchayata_/) ![](https://visitor-badge.glitch.me/badge?page_id=sanchayata-jain.sanchayata-jain)
 
-<img align="right" alt="GIF" src="https://github.com/sanchayata-jain/sanchayata-jain/blob/master/assets/luna_coding.gif" width="300" height="230" />
+<img align="right" alt="GIF" src="https://github.com/sanchayata-jain/sanchayata-jain/blob/master/assets/luna_coding.gif" width="300" height="231" />
 
 ```json
 {
